@@ -6,7 +6,7 @@ The **Company Inventory & Analytics Tracker** is a Python command-line utility t
 
 My purpose in building this application was to establish a solid foundation in transactional SQL, understand how to safely bind parameters to queries to prevent injection vulnerabilities, and explore how database aggregate calculations can be transformed into actionable financial reporting metrics.
 
-[Software Demo Video]((https://www.loom.com/share/6f3c0c92d25c4eb49463813d2dfb81a3))
+[Software Demo Video](https://www.loom.com/share/6f3c0c92d25c4eb49463813d2dfb81a3)
 
 # Relational Database Schema
 

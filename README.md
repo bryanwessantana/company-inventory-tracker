@@ -90,11 +90,9 @@ Select an option: _
 ## 🔮 Future Enhancements
 To further evolve this application, the following milestones are planned:
 
-[ ] Implement automated unit testing for database transactions using pytest.
-
-[ ] Containerize the local environment and migrate from SQLite to a production-ready PostgreSQL instance.
-
-[ ] Refactor the raw SQL queries into an Object-Relational Mapper (ORM) approach using SQLAlchemy.
+* [ ] Implement automated unit testing for database transactions using pytest.
+* [ ] Containerize the local environment and migrate from SQLite to a production-ready PostgreSQL instance.
+* [ ] Refactor the raw SQL queries into an Object-Relational Mapper (ORM) approach using SQLAlchemy.
 
 ---
 
